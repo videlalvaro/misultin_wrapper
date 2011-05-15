@@ -19,7 +19,7 @@ Inside the `rabbitmq-public-umbrella` folder do:
 
 Add the wrapper as a dependency for your plugin. For example add the following line to your `package.mk` file.
 
-    DEPS:=rabbitmq-server misultin-wrapper rabbitmq-erlang-client
+    DEPS:=rabbitmq-server misultin_wrapper rabbitmq-erlang-client
 
 Enjoy!
 
