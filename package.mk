@@ -1,4 +1,5 @@
 APP_NAME:=misultin
+DO_NOT_GENERATE_APP_FILE:=true
 
 UPSTREAM_GIT:=git://github.com/ostinelli/misultin.git
 UPSTREAM_REVISION:=8d4ee23e47a0f025514c
